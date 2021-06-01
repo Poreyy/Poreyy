@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Poreyy
-- 👀 I’m interested in becoming a Java Developer
-- 🌱 I’m currently learning Java programming
+- 👀 I’m interested in becoming a Java Developer!
+- 🌱 I’m currently learning the Java language!
 - 📫 Discord: Poreyy#0825
 
 <!---
