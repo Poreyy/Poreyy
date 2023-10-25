@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Samer aka @Poreyy!
-- 👀 I’m interested in Developing!
-- 🌱 And I’m currently improving my skills! 🔥
-- 📫 Discord: samer#8184
+discord: porey
